@@ -1,0 +1,20 @@
+.textlink {
+  font-weight: bold;
+  background: none;
+  border: none;
+  text-align: left;
+  font-size: inherit; /* Default: 16 px */
+  display: block;
+  color: #327ACF;
+  padding: 0;
+  word-break: break-word;
+}
+
+.textlink:hover {
+  color: #165A92;
+  cursor: pointer;
+}
+
+.p {
+  white-space: pre-line;
+}
